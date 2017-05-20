@@ -1,14 +1,19 @@
-# Hello World! EasonKai
+# NTU GIT CLASS EXERCISE 1
 
-### My favorite 3 things:
-- TV
-- MOVIE
-- CODE
+Name
+----
+Hsuan-Hung
 
-```C
-int Main()
-{
-    printf("Hello World!");
-    return 0;
-}
-```
+Date
+----
+2017-05-20
+
+Github Username
+---------------
+RobiGit2017
+
+My Favorite 3 dishes
+--------------------------------
+- Apple
+- Noodle
+- Rice
